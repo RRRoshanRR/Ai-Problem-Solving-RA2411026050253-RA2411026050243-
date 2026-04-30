@@ -1,6 +1,4 @@
-# AI_ProblemSolving_-RA2411026050276-RA2411026050247
-## Name : Sundhares S
-## Reg NO : RA2411026050276
+# AI_ProblemSolving_-RA2411026050253-RA2411026050243
 ## Name : Roshan Ahamed I 
 ## Reg No : RA2411026050253
 ## Name : Prasanna E
